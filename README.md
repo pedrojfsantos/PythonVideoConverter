@@ -1,9 +1,9 @@
-#Python Video Converter
+# Python Video Converter
 
-This script is done to automatize the conversion of several videos to .MP4,
-using ffmpeg. It can be updated to convert to other formats.
-This requires the previous installation of ffmpeg on your system. For that use
-"brew install ffmpeg" command to make sure ffmpeg package is available for all
+This is a simple script to automatize the conversion of several videos to .MP4,
+using ffmpeg (it can be updated to convert to other formats).
+This requires the previous installation of ffmpeg on your system. 
+For that use "brew install ffmpeg" command to make sure ffmpeg package is available for all
 system and not just for a specific environment.
 
 ffmpeg is a fast video encoder, with no interface, so it should be used from
