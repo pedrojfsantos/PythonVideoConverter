@@ -15,4 +15,5 @@ wanted to save them in a laptop (not Mac). The problem is that laptops don't
 read .MOV, unless codecs are installed (I can't install codecs in that laptop),
 so the solution is to convert all the videos files to MP4. For a more practical
 way to do it, I used a simple python script to run a for loop that runs ffmped
-command for each video I wanted to convert. Take a look.
+command for each video I wanted to convert.
+Take a look at the notebook.
